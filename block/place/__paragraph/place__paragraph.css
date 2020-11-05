@@ -1,0 +1,29 @@
+.place__paragraph{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 75%;
+    row-gap: 26px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+
+    .place__paragraph{
+        width: calc(100% - 32px);
+        row-gap: 25px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+    .place__paragraph{
+        width: calc(100% - 32px);
+        row-gap: 25px;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px){
+
+    .place__paragraph{
+        row-gap: 27px;
+    }
+}

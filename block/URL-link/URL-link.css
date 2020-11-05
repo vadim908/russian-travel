@@ -1,0 +1,13 @@
+.URL-link{
+    margin: 0;
+    font-size: 18px;
+    line-height: 0.8;
+    font-weight: normal;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+
+.URL-link:hover{
+    text-decoration-line: underline;
+}

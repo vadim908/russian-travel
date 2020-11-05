@@ -1,0 +1,8 @@
+.lang{
+    display: grid;
+    gap: 18px;
+    grid-template-columns: repeat(2, minmax(min-content, max-content));
+    list-style: none;
+    margin: 0;
+
+}
