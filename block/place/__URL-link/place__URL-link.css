@@ -1,4 +1,4 @@
-.URL-link{
+.place__URL-link{
     margin: 0;
     font-size: 18px;
     line-height: 0.8;
@@ -8,6 +8,7 @@
 }
 
 
-.URL-link:hover{
+.place__URL-link:hover{
     text-decoration-line: underline;
+    opacity: .8;
 }

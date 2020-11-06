@@ -12,7 +12,6 @@
     .footer__links{
         grid-template-columns: repeat(1, minmax(min-content, max-content));
         gap: 32px;
-        padding: 0;
         padding-bottom: 48px;
     }
 }

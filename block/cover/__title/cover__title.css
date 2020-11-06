@@ -1,11 +1,10 @@
 .cover__title {
-    width: 60%;
+    width: 45%;
     font-size: 72px;
     line-height: 1.05;
     font-weight: 900;
     text-align: center;
     margin: 0;
-    z-index: 1;
     position: relative;
 }
 
@@ -13,9 +12,7 @@
 
     .cover__title{
         width: 75%;
-        font-weight: 900;
         font-size: 32px;
-        line-height: 109%;
         padding-bottom: 16px;
     }
 }
@@ -24,9 +21,7 @@
 
     .cover__title{
         width: 70%;
-        font-weight: 900;
         font-size: 72px;
-        line-height: 0.9;
         padding-bottom: 32px;
     }
 }
