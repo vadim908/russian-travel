@@ -30,4 +30,4 @@
 
 5. Ссылка на проект. 
 
-https://vadim908.github.io/russian-travel/.
+https://vadim908.github.io/russian-travel
